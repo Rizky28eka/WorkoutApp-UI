@@ -36,7 +36,7 @@ class _WelcomeViewState extends State<WelcomeView> {
                 height: media.width * 0.1,
               ),
               Text(
-                "Welcome, Stefani",
+                "Welcome, aira",
                 style: TextStyle(
                     color: TColor.black,
                     fontSize: 20,
